@@ -12,7 +12,11 @@ Boas-vindas à API AllBooks!
 Bem vindo a API do all books!
 
 
+<<<<<<< HEAD
 >>>>>>> testes
+=======
+>>>>>>> 9214a51 (Inicializando a branch testes)
+>>>>>>> 4c732c4 (Resolvendo conflitos do merge entre main e testes)
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
@@ -87,4 +91,8 @@ Authorization: Bearer <ACCESS_TOKEN>
 <<<<<<< HEAD
 >>>>>>> a5ad678 (Adiciona projeto inicial)
 =======
+<<<<<<< HEAD
 >>>>>>> testes
+=======
+>>>>>>> 9214a51 (Inicializando a branch testes)
+>>>>>>> 4c732c4 (Resolvendo conflitos do merge entre main e testes)
